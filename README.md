@@ -1,8 +1,8 @@
 # entity-scaffolding
-Generate HTML files from your JPA-Entity Mapping
+Generate HTML files from your Java JPA-Entity Mapping
 
 ## Synopsis
-This project is capable of generate HTML files from your Entities
+This project is capable of generate HTML files from your Entities, it's based in a Web Java Project using Maven
 
 ## Motivation
 Create and Share Fast Development Tools trying to overcome daily routines
@@ -17,7 +17,7 @@ Create and Share Fast Development Tools trying to overcome daily routines
 * Specifying path to export files
 * Indentation
 * Using templates
-** Bootstrap forms
+* Bootstrap forms
 
 ## Contributors
 Roberto Fonseca Alves - roberto.alves@rhfactor.com.br
